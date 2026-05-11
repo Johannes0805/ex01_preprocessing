@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/histogram_equalization.py;/Users/clemens/PycharmProjects/ex01_preprocessing/main.py;/Users/clemens/PycharmProjects/ex01_preprocessing/noise.py;/Users/clemens/PycharmProjects/ex01_preprocessing/otsu.py;/Users/clemens/PycharmProjects/ex01_preprocessing/test_histogram_equalization.py;/Users/clemens/PycharmProjects/ex01_preprocessing/test_noise.py;/Users/clemens/PycharmProjects/ex01_preprocessing/test_otsu.py" />
+  </component>
+</project>
